@@ -31,24 +31,24 @@ def testAll():
 Here is all the documentation that you will need to finish this homework:
 
 # Numbers / Types
-http://www.tutorialspoint.com/python/python_numbers.htm
-https://docs.python.org/2.4/lib/typesnumeric.html
-https://docs.python.org/2/library/stdtypes.html
+http://www.tutorialspoint.com/python/python_numbers.htm<br />
+https://docs.python.org/2.4/lib/typesnumeric.html<br />
+https://docs.python.org/2/library/stdtypes.html<br />
 
 # Strings
-https://docs.python.org/2/library/string.html
-http://www.learnpython.org/en/Basic_String_Operations
-https://learnpythonthehardway.org/book/ex6.html
+https://docs.python.org/2/library/string.html<br />
+http://www.learnpython.org/en/Basic_String_Operations<br />
+https://learnpythonthehardway.org/book/ex6.html<br />
 
 # Conditionals
-https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements
-http://www.python-course.eu/conditional_statements.php
-http://www.openbookproject.net/books/bpp4awd/ch04.html
+https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements<br />
+http://www.python-course.eu/conditional_statements.php<br />
+http://www.openbookproject.net/books/bpp4awd/ch04.html<br />
 
 # Loops
-https://wiki.python.org/moin/ForLoop
-https://learnpythonthehardway.org/book/ex33.html
-http://www.tutorialspoint.com/python/python_loops.htm
+https://wiki.python.org/moin/ForLoop<br />
+https://learnpythonthehardway.org/book/ex33.html<br />
+http://www.tutorialspoint.com/python/python_loops.htm<br />
 
 ## Help and Bugs
 If you find bugs in the homework, please post on Piazza or contact Ananya or myself (Austin). As always, feel free to post on slack and piazza for help, and to come to office hours if you get stuck.
