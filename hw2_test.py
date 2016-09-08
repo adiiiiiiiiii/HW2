@@ -15,7 +15,7 @@ def testPrimeTest():
     assert prime_test(99991) == True
 
 def testCountVowels():
-    assert count_vowels('aAaeeizzzzz') == 5
+    assert count_vowels('aAaeeizzzzz') == 6
     assert count_vowels('computer science') == 6
     assert count_vowels('196.xyz') == 0
 
