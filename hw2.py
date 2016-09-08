@@ -130,7 +130,7 @@ def most_common_char(str_in):
 #
 # Restrictions
 # ------------
-# We will not test a number larger than 10.
+# We will not test a number larger than 100.
 #
 # Example(s)
 # ----------
