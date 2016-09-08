@@ -77,9 +77,9 @@ def prime_test(num):
 # ----------
 # Example 1:
 #   Input: aAaeeizzzzz
-#   This string contains 3 a's, 2 e's, 1 i. So 5 vowels.
+#   This string contains 3 a's, 2 e's, 1 i. So 6 vowels.
 #   Output:
-#   5
+#   6
 #
 # Parameters
 # ----------
