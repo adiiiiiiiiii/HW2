@@ -299,7 +299,7 @@ def unique(str_in):
 #
 # Returns
 # -------
-# bool
+# int
 #   the nth palindromic prime
 #
 # hint: write a helper function isPalindromicPrime(n) first!
