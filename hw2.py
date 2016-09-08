@@ -126,7 +126,7 @@ def most_common_char(str_in):
 
 # Fibonacci Sequence
 #
-# Given a number n, print the nth fibonacci sequence.
+# Given a number n, return the nth fibonacci sequence.
 #
 # Restrictions
 # ------------
