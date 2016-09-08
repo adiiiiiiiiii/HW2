@@ -32,25 +32,25 @@ def testAll():
 ## Documentation
 Here is all the documentation that you will need to finish this homework:
 
-# Helper Functions
+### Helper Functions
 http://programmers.stackexchange.com/questions/247267/what-is-a-helper-is-it-a-design-pattern-is-it-an-algorithm
 
-# Numbers / Types
+### Numbers / Types
 http://www.tutorialspoint.com/python/python_numbers.htm<br />
 https://docs.python.org/2.4/lib/typesnumeric.html<br />
 https://docs.python.org/2/library/stdtypes.html<br />
 
-# Strings
+### Strings
 https://docs.python.org/2/library/string.html<br />
 http://www.learnpython.org/en/Basic_String_Operations<br />
 https://learnpythonthehardway.org/book/ex6.html<br />
 
-# Conditionals
+### Conditionals
 https://en.wikibooks.org/wiki/Python_Programming/Conditional_Statements<br />
 http://www.python-course.eu/conditional_statements.php<br />
 http://www.openbookproject.net/books/bpp4awd/ch04.html<br />
 
-# Loops
+### Loops
 https://wiki.python.org/moin/ForLoop<br />
 https://learnpythonthehardway.org/book/ex33.html<br />
 http://www.tutorialspoint.com/python/python_loops.htm<br />
