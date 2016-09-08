@@ -1,6 +1,8 @@
 # HW2
 Make sure you set up and push this homework to your homework repo, which you can build using these directions: https://github.com/CS196Illinois/Lecture-Notes/blob/master/creating_hw_repo.md
 
+DO NOT CHANGE THE FILE NAMES.
+
 ## Testing
 This week, we provided a full test suite as a separate python file. The python file hw2_test.py will import all functions written in the hw2.py file and test them against a battery of test suites. These tests are not all inclusive (do not include all edge cases). To use the test suite, both of the files must be in the same directory, on the same level. Open up your terminal and type the command:
 
