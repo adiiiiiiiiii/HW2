@@ -32,6 +32,9 @@ def testAll():
 ## Documentation
 Here is all the documentation that you will need to finish this homework:
 
+# Helper Functions
+http://programmers.stackexchange.com/questions/247267/what-is-a-helper-is-it-a-design-pattern-is-it-an-algorithm
+
 # Numbers / Types
 http://www.tutorialspoint.com/python/python_numbers.htm<br />
 https://docs.python.org/2.4/lib/typesnumeric.html<br />
