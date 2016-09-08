@@ -1,6 +1,6 @@
 # HW2
 
-Deadline: Sept 31, 2016, 7pm
+Deadline: Sept 13, 2016, 7pm
 
 Make sure you set up and push this homework to your homework repo, which you can build using these directions: https://github.com/CS196Illinois/Lecture-Notes/blob/master/creating_hw_repo.md
 
