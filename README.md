@@ -19,7 +19,7 @@ def testAll():
     #testPrimeTest()
     #testCountVowels()
     #testMostCommonChar()
-    testFibonacci() // focus on testFibonacci
+    testFibonacci() # focus on testFibonacci
     #testAdvancedDivision()
     #testPalindrome()
     #testUnique()
