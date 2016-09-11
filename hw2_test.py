@@ -31,7 +31,7 @@ def testFibonacci():
 
 def testAdvancedDivision():
     r1 = advanced_division(5, 6)
-    assert type(r1) is float and r1 == 0.8333333333333334
+    assert type(r1) is float and abs(r1 - 0.8333333333333334) <= 0.0000000000000009
     r2 = advanced_division(10, 5)
     assert type(r2) is int and r2 == 2
     r3 = advanced_division(2, 0.5)
@@ -50,7 +50,7 @@ def testUnique():
 def testNthPalindromicPrime():
     assert nthPalindromicPrime(5) == 11
     assert nthPalindromicPrime(8) == 151
-    assert nthPalindromicPrime(10) == 191    
+    assert nthPalindromicPrime(10) == 191
 
 # You can comment out tests for questions that you are not working on!
 def testAll():
@@ -65,4 +65,4 @@ def testAll():
     testNthPalindromicPrime()
     print "All tests passed! "
 
-testAll()    
+testAll()
